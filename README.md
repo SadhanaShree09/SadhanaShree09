@@ -1,5 +1,27 @@
 # 💫 About Me:
-👋 Hey, I'm Sadhana!<br>🧑‍💻 Aspiring Full-Stack Developer & Web Penetration Tester<br><br>🎓 M.Tech (Integrated 5-Year) CSE @ SREC (2022–2027)<br><br>🛡️ Security-Obsessed | Passionate about Ethical Hacking<br><br>
+👋 Hey, I'm Sadhana!
+
+🧑‍💻 Full-Stack Developer & Web Penetration Tester
+
+🎓 M.Tech (Integrated 5-Year) CSE @ SREC (2022–2027)
+
+🛡️ Security-Obsessed | Passionate about Ethical Hacking
+
+💻 MERN Stack | Python | Flask | C++ | Shell Scripting
+
+🛠️ Tools: Burp Suite, Nmap, SQLMap, Dirbuster
+
+🔐 Built DDoS Protection System using ML + MERN Stack
+
+🛒 Developed full-featured E-Commerce Platform (MERN)
+
+💉 Created a smart Anesthesia Monitoring Web App
+
+📜 Certified by EC-Council, Cisco, NPTEL, and Udemy
+
+🌱 Currently learning Next.js, Docker, and Cloud Security
+
+🌍 Based in Coimbatore | 💬 Let’s connect and create something secure & amazing!
 
 
 ## 🌐 Socials:
